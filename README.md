@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vinay0486
-- 👀 I’m interested in ... DevOps, JavaScript, Database design, SQL, AWS, Linux
+- 👀 I’m interested in ... DevOps, JavaScript, Node.js, React js, Database design, SQL, AWS, Linux
 - 🌱 I’m currently learning ... DevOps
 - 💞️ I’m looking to collaborate on ... Resource sharing to IT industries
 - 📫 How to reach me ... vinay.cse5@gmail.com
